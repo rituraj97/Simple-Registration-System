@@ -12,9 +12,13 @@ Simple Registration- Login/Signup system using HTML, CSS, PHP, and MySQL.
   This project contains 5 separate php modules, namely, 
   
   1.) server.php - for connecting PHP and MySql for interaction between the form and the database.
+  
   2.) register.php - The registration/Signup page for new user's registration.
+  
   3.) error.php - included in both register.php and login.php to check for errors and also to check if any field is empty.
+  
   4.) login.php - This login page asks user to enter the user name and password and validates it, if successful redirects to    the index.php.
+  
   5.) index.php - This index.php page is basically the demo homepage for the organization which displays the message which welcomes the user.
   
 Note : Find the CSS in the separate style.css file.
