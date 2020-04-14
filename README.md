@@ -4,7 +4,7 @@ Simple Registration- Login/Signup system using HTML, CSS, PHP, and MySQL.
 # Project Structure
   It is a simple registration system designed using PHP, HTML, CSS, and MySQL.
 
-## Pre-requisites:
+### Pre-requisites:
   XAMPP( Cross platform, Apache, MySQL, PHP, Perl.
   
   phpMyAdmin(Username, password, database name-'registration')
