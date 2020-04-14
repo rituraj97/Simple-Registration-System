@@ -9,7 +9,7 @@ Simple Registration- Login/Signup system using HTML, CSS, PHP, and MySQL.
   
   phpMyAdmin(Username, password, database name-'registration')
   
-### Modules
+### Modules:
   
   This project contains 5 separate php modules, namely, 
   
